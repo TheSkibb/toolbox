@@ -1,0 +1,5 @@
+# list tables
+
+~~~
+\dt
+~~~
